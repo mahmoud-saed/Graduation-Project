@@ -10,8 +10,4 @@ skincancer with flutter - ai (15-9) -- error (مشكلة في البلانس)
 
 (29-10) add 5 more cancer modles
 
--Bloood Cells
--Brain-t
--Breast
--Chest
--Colon        
+(Bloood Cells - Brain-t - Breast - Chest - Colon)        
